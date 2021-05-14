@@ -1,0 +1,80 @@
+header {
+  background-color: #403934;
+  color: #B5B0A9;
+  text-align: center;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: block;
+  box-sizing: border-box;
+  position: absolute;
+}
+
+h1 {
+  font-family: 'Pangolin', cursive;
+  font-size: 50px;
+}
+
+h3 {
+  font-family: 'Codystar', cursive;
+  font-size: 30px;
+}
+
+body {
+  background-color: #EDEBE6;
+  text-align: center;
+}
+
+main div section p, main div section ul{
+  font-family: 'Neucha', cursive;
+  text-align: left;
+  position: relative;
+  left: 25%;
+  width: 50%;
+}
+
+main div section h2 {
+  font-family: 'Handlee', cursive;
+  text-align: center;
+  position: relative;
+}
+
+img {
+  border-radius: 15%;
+  margin-top: 200px; 
+  width: 600px;
+  align-items: center;
+  box-shadow: 0px 0px 10px 0px;
+}
+
+footer {
+  background-color: #403934;
+  font-family: 'Handlee', cursive;
+  width: 100%;
+  color: rgb(233, 226, 215);
+  text-align: center;
+  left: 0;
+  right: 0;
+  position: absolute;
+}
+
+hr {
+  width: 50%;
+}
+
+a:link {
+  color: rgb(177, 103, 43);
+}
+
+a:hover {
+  color: rgb(248, 170, 53);
+}
+
+a:visited {
+  color: #6E2C00;
+}
+
+a:active {
+  color: #F4D03F;
+}
