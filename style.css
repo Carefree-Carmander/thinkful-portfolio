@@ -16,7 +16,7 @@ h1 {
   font-size: 50px;
 }
 
-h3 {
+h2 {
   font-family: 'Codystar', cursive;
   font-size: 30px;
 }
@@ -34,7 +34,7 @@ main div section p, main div section ul, ol{
   width: 50%;
 }
 
-main div section h2 {
+main div section h3 {
   font-family: 'Handlee', cursive;
   text-align: center;
   position: relative;
