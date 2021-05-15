@@ -33,7 +33,7 @@ body {
 }
 
 /* styling for body and listed items */
-main div section p, main div section ul,  ol{
+.intro p, .about p, .contact p, ul, ol {
   font-family: 'Neucha', cursive;
   text-align: left;
   position: relative;
