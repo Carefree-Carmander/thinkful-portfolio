@@ -1,3 +1,4 @@
+/* Header frame at top of page */
 header {
   background-color: #403934;
   color: #B5B0A9;
@@ -11,16 +12,19 @@ header {
   position: absolute;
 }
 
+/* Name at the top of the page */
 h1 {
   font-family: 'Pangolin', cursive;
   font-size: 50px;
 }
 
+/* Title under name */
 h2 {
   font-family: 'Codystar', cursive;
   font-size: 30px;
 }
 
+/* Main part of page where majority of text is */
 body {
   background-color: #EDEBE6;
   text-align: center;
@@ -28,7 +32,8 @@ body {
   padding: 0;
 }
 
-main div section p, main div section ul, ol{
+/* styling for body and listed items */
+main div section p, main div section ul,  ol{
   font-family: 'Neucha', cursive;
   text-align: left;
   position: relative;
@@ -36,12 +41,14 @@ main div section p, main div section ul, ol{
   width: 50%;
 }
 
+/* titles throughout the body */
 main div section h3 {
   font-family: 'Handlee', cursive;
   text-align: center;
   position: relative;
 }
 
+/* picture insert */
 img {
   border-radius: 15%;
   margin-top: 200px; 
@@ -50,6 +57,7 @@ img {
   box-shadow: 0px 0px 10px 0px;
 }
 
+/* Bottom bar at page */
 footer {
   background-color: #403934;
   font-family: 'Handlee', cursive;
@@ -61,6 +69,7 @@ footer {
   position: absolute;
 }
 
+/* horizontol bars through page */
 hr {
   width: 50%;
 }
