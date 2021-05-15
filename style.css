@@ -24,6 +24,8 @@ h2 {
 body {
   background-color: #EDEBE6;
   text-align: center;
+  height: 100%;
+  padding: 0;
 }
 
 main div section p, main div section ul, ol{
