@@ -26,7 +26,7 @@ body {
   text-align: center;
 }
 
-main div section p, main div section ul{
+main div section p, main div section ul, ol{
   font-family: 'Neucha', cursive;
   text-align: left;
   position: relative;
