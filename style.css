@@ -62,19 +62,3 @@ footer {
 hr {
   width: 50%;
 }
-
-a:link {
-  color: rgb(177, 103, 43);
-}
-
-a:hover {
-  color: rgb(248, 170, 53);
-}
-
-a:visited {
-  color: #6E2C00;
-}
-
-a:active {
-  color: #F4D03F;
-}
